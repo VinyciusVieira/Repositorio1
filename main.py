@@ -1,6 +1,6 @@
-import calculadora
+a = int(input("Digite um número: "))
+b = int(input("Digite outro número: "))
 
-a = float(input("Digite um número: "))
-b = float(input("Digite outro número: "))
+print(a + b)
 
-print("O resultado da soma é: ", calculadora.soma(a, b))
+print('Jooj')
